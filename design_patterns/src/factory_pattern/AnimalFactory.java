@@ -1,4 +1,4 @@
-package factor_pattern;
+package factory_pattern;
 
 public class AnimalFactory {
 	
